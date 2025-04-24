@@ -329,6 +329,8 @@ button {
     font-family: var(--font-main-semibold);
     padding: 1rem;
     text-align: left;
+    max-height: 250px;
+    overflow-y: auto;
 }
 .products-confirmed > p{
     border-bottom: 1px solid var(--grey-lighter-color);
