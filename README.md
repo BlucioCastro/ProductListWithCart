@@ -1,4 +1,4 @@
-# ProductListWithCart
+# Product List With Cart
 
 Um projeto criado a partir de um desafio do Frontend Mentor para desenvolver e consolidar meus conhecimentos adquiridos.
 
